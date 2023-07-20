@@ -1,11 +1,10 @@
-
-<h1 align="center">Hey 👋, I'm Prakhar</h1>
+<h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">Embracing Tomorrow's Tech Today: Pioneering the Future of Code</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar901&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar901" /> </p>
 
-- 🌱 I’m currently learning *React js,Dsa,Js,Redux*
+- 🌱 I’m currently learning **React js,Dsa,Js,Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prakhar901](https://github.com/prakhar901)
 
@@ -13,12 +12,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SEuEsXtJUwg1pdqAdeKrBMlCiVucEgUQ/view?usp=sharing](https://drive.google.com/file/d/1SEuEsXtJUwg1pdqAdeKrBMlCiVucEgUQ/view?usp=sharing)
 
-- ⚡ Fun fact *"Despite countless hours of coding, a coder's most frequent companion is a trusty cup of coffee."*
+- ⚡ Fun fact **"Despite countless hours of coding, a coder's most frequent companion is a trusty cup of coffee."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prakhar-jain-1524b61b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-jain-1524b61b1/" height="30" width="40" /></a>
 <a href="https://instagram.com/prakhar._jain._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakhar._jain._" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prakhar901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar901" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<prakharjain653>/https://auth.geeksforgeeks.org/user/prakharjain653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<prakharjain653>/https://auth.geeksforgeeks.org/user/prakharjain653" height="30" width="40" /></a>
+<a href="https://discord.gg/prakhar#6971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prakhar#6971" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
