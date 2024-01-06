@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prakharjain653@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1SEuEsXtJUwg1pdqAdeKrBMlCiVucEgUQ/view?usp=sharing](https://drive.google.com/file/d/17sP4VOFXSDWu8QNiP127CRzoY-QtX7IX/view?usp=sharing)](https://drive.google.com/file/d/1bAmX-8Z9z97hWGZ4W9qE9Ntktd0aVHIO/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1bAmX-8Z9z97hWGZ4W9qE9Ntktd0aVHIO/view?usp=sharing)
 
 - ⚡ Fun fact **"Despite countless hours of coding, a coder's most frequent companion is a trusty cup of coffee."**
 
